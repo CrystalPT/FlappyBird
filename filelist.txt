@@ -1,2 +1,1 @@
-flappy.exe
 flappy.py
