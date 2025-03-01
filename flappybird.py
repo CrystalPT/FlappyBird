@@ -8,7 +8,7 @@ import os
 pygame.init()
 
 # Game constants
-WIDTH, HEIGHT = 400, 600
+WIDTH, HEIGHT = 1500, 1000
 FPS = 60
 GRAVITY = 0.25
 FLAP_STRENGTH = -7
